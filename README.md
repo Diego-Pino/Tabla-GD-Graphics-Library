@@ -6,4 +6,5 @@ El Siguiente Codigo es para generar una tabla de Posiciones en PHP & Generar de 
 # Ejemplo Online:
 http://banner.we11.net/tabla.php
 
-
+#Info:
+GD is an open source code library for the dynamic creation of images by programmers
