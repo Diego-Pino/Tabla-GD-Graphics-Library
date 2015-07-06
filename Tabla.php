@@ -5,7 +5,7 @@
  *
  *  Author Code: DiegoPino, diegopino@gmail.com
  *  Basado en mis estudios de GD-Library. is a code library for the dynamic creation of images
- *  Website: http://www.we11.net
+ *  Website: http://diegopino.blogspot.com/
  *  License: Creative Commons http://creativecommons.org/licenses/by/4.0/legalcode
  *
  *  Tabla de Posiciones Creada con GD Graphics Library, para generar una Tabla en Formato de Imagen
